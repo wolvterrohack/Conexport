@@ -1,0 +1,15 @@
+
+
+/***** Main Layout ****/
+#container {
+  	width: 100%;
+  	height: 100%;
+  	text-align: center;/* IE fix to center the page */
+}
+
+#content {
+  	width: 740px;
+  	margin: 0 auto;/* center the page in Firefox */
+  	text-align: left;
+	padding: 20px;
+}
